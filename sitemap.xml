@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://blog.orioyue.com/post/AddLightBox</loc>
+    
+    <lastmod>2022-06-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.orioyue.com/post/MiOuChat</loc>
+    
+    <lastmod>2022-05-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.orioyue.com/friend-links/</loc>
+    
+    <lastmod>2022-05-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.orioyue.com/message-board/</loc>
+    
+    <lastmod>2022-05-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.orioyue.com/post/PostTest</loc>
+    
+    <lastmod>2022-05-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.orioyue.com/post/LightHouseFlowMonitor</loc>
+    
+    <lastmod>2022-05-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.orioyue.com/post/AuroraMagicChangeFirst</loc>
+    
+    <lastmod>2022-05-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.orioyue.com/post/AddPictureCDN</loc>
+    
+    <lastmod>2022-05-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.orioyue.com/post/AddFriendLinks</loc>
+    
+    <lastmod>2022-05-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.orioyue.com/images/README</loc>
+    
+    <lastmod>2022-03-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.orioyue.com/post/PostDemo</loc>
+    
+    <lastmod>2021-08-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.orioyue.com/post/HelloWorld</loc>
+    
+    <lastmod>2021-08-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.orioyue.com/about/</loc>
+    
+    <lastmod>2021-07-31</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://blog.orioyue.com/</loc>
+    <lastmod>2022-06-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.orioyue.com/tags/</loc>
+    <lastmod>2022-06-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.orioyue.com/archives/</loc>
+    <lastmod>2022-06-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://blog.orioyue.com/tags/search?slug=Aurora</loc>
+    <lastmod>2022-06-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.orioyue.com/tags/search?slug=%E9%AD%94%E6%94%B9</loc>
+    <lastmod>2022-06-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.orioyue.com/tags/search?slug=%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5</loc>
+    <lastmod>2022-06-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.orioyue.com/tags/search?slug=jsdelivr</loc>
+    <lastmod>2022-06-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.orioyue.com/tags/search?slug=CDN</loc>
+    <lastmod>2022-06-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.orioyue.com/tags/search?slug=%E5%9B%BE%E7%89%87%E7%81%AF%E7%AE%B1</loc>
+    <lastmod>2022-06-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.orioyue.com/tags/search?slug=Test</loc>
+    <lastmod>2022-06-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.orioyue.com/tags/search?slug=%E8%85%BE%E8%AE%AF%E4%BA%91</loc>
+    <lastmod>2022-06-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.orioyue.com/tags/search?slug=%E6%9C%8D%E5%8A%A1%E5%99%A8</loc>
+    <lastmod>2022-06-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.orioyue.com/tags/search?slug=fiora</loc>
+    <lastmod>2022-06-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.orioyue.com/tags/search?slug=Diy</loc>
+    <lastmod>2022-06-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+</urlset>
