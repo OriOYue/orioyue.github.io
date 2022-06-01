@@ -9,6 +9,13 @@
   </url>
   
   <url>
+    <loc>https://blog.orioyue.com/post/AddPictureCDN</loc>
+    
+    <lastmod>2022-06-01</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.orioyue.com/post/MiOuChat</loc>
     
     <lastmod>2022-05-25</lastmod>
@@ -45,13 +52,6 @@
   
   <url>
     <loc>https://blog.orioyue.com/post/AuroraMagicChangeFirst</loc>
-    
-    <lastmod>2022-05-24</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.orioyue.com/post/AddPictureCDN</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -137,20 +137,6 @@
   </url>
   
   <url>
-    <loc>https://blog.orioyue.com/tags/search?slug=jsdelivr</loc>
-    <lastmod>2022-06-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.orioyue.com/tags/search?slug=CDN</loc>
-    <lastmod>2022-06-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.orioyue.com/tags/search?slug=%E5%9B%BE%E7%89%87%E7%81%AF%E7%AE%B1</loc>
     <lastmod>2022-06-01</lastmod>
     <changefreq>daily</changefreq>
@@ -159,6 +145,20 @@
   
   <url>
     <loc>https://blog.orioyue.com/tags/search?slug=Test</loc>
+    <lastmod>2022-06-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.orioyue.com/tags/search?slug=jsdelivr</loc>
+    <lastmod>2022-06-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.orioyue.com/tags/search?slug=CDN</loc>
     <lastmod>2022-06-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
